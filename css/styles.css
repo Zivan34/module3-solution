@@ -1,0 +1,19 @@
+.bg-gray {
+    background-color: #a9a9a9 !important;
+  }
+
+  .text-black {
+    color: rgba(0, 0, 0, 1) !important;
+  }
+
+  .navbar-menu-right {
+    position: absolute;
+    right: 4px;
+    top: 4px;
+  }
+
+  @media (min-width: 768px) {
+    .lg-hide{
+      display: none;
+    }
+  }
