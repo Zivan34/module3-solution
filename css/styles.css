@@ -17,3 +17,8 @@
       display: none;
     }
   }
+  @media (max-width: 768px) {
+    .navbar-brand-mobile{
+        padding-left: 10px !important;
+    }
+  }
